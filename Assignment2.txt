@@ -1,0 +1,24 @@
+                                                              SOLUTIONS
+Q1:Git is a popular version control system(VCS).It was created by Linus Torvalds in 2005 and has been maintained by Junio Hamano.
+Q2:VCS is a system that records changes to a file or set of files over time, so that we can recall specific versions later, i.e., for every source code changes in a file a new version will be created.
+Q3:GitHub is a popular repository.It is used to store/maintain the source code of the project.
+Q4:Popular git hosting services are given below:
+ a)Bitbucket.
+ b)GitLab.
+ c)Perforce.
+ d)Beanstalk.
+ e)Amazon AWS CodeCommit.
+ f)Codebase.
+ g)Microsoft Azure DevOps.
+ h)SourceForge.
+ i)GitHub.etc
+Q5:Types of version control system(VCS)are mentioned below
+ a)Local Version Control System (LVCS)
+ b)CeItralised Control System (CVCS)
+ c)Distributed Version Control System (DVCS)
+Q6:Benefits of git are mentioned below
+ a)Tracking code changes.
+ b.Tracking who made changes like history of the files.
+ c.Coding Collaborations.
+Q7:Repositories in GIT contain a collection of files of various different versions of a Project. These files are imported from the repository into the local server of the user for further updations and modifications in the content of the file.
+Q8:Using command $ git init.

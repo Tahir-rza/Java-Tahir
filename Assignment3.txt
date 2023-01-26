@@ -1,0 +1,17 @@
+                                                   SOLUTIONS
+Q1:Using command $ git --version
+Q2:Using command $ git init 
+Q3:Using following commands we can tell git our username and email
+  for name command is $  git config --global user.name "Tahir"
+  for email command is $  git config --global user.email"tahirrza111@gmail.com"  
+Q4:To add a file in staging area we use following two command
+a)for multiple files command is $ git add .
+b)for single file command is $ git add <file name> 
+Q5:To remove a file from staging are we use this command $ git rm --cached <file name>
+Q6:To make a commit we use command $ git commit -m "suitable message"
+Q7:We send change to a remote repository by the command $ git push -u origin main
+Q8:Git pull:It is used to fetch the latest changes made in the remote repository to the working directory
+   syntax:git pull
+ Git clone:It is used to clone the repository to the working directory of the developer
+    syntax:git pull <URL>
+NOTE:here symbol $ is used to differentiate between sentence and command otherwise in git bash it is already given there.
