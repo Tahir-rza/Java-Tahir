@@ -14,7 +14,7 @@ Q4:Popular git hosting services are given below:
  i)GitHub.etc
 Q5:Types of version control system(VCS)are mentioned below
  a)Local Version Control System (LVCS)
- b)CeItralised Control System (CVCS)
+ b)Centralised Control System (CVCS)
  c)Distributed Version Control System (DVCS)
 Q6:Benefits of git are mentioned below
  a)Tracking code changes.
