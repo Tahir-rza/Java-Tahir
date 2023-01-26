@@ -1,0 +1,24 @@
+                                        SOLUTIONS
+Q1:Computer is a machine that accepts information (in the form of digitised data) and processes it in 
+accordance with a programme, piece of software, or set of instructions that specify how the information should 
+be handled.
+Q2:RAM(Random-access memory) is volatile memory. This means that information is kept in RAM while the computer is 
+running, but it is erased when the machine is powered off. The operating system and other files are frequently 
+loaded from an HDD or SSD into RAM when the computer is restarted.
+Q3:Hard disk drive(HDD) or SSD and RAM(Temporary storage)
+Q4:Keyboard
+Q5:The output device is what we get back from the command we gave the computer through the input device.
+Some examples are given below:
+a)Monitor
+b)Speaker
+c)Printer
+d)Plotter etc.
+Q6:Mouse
+Q7:Machine language
+Q8: Through input units or devices like a keyboard, joystick, etc., computers can receive commands in the 
+form of numbers, alphabets, graphics, etc. and respond accordingly.
+Some examples are given below;
+a)Keyboard
+b)Mouse
+c)Scanner
+d)Joystick etc.				
